@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432324906449",
+    "project_id": "greening-personal-java-2",
+    "storage_bucket": "greening-personal-java-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432324906449:android:244b601e10f7111637a4f0",
+        "android_client_info": {
+          "package_name": "com.example.greening_personal_java_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432324906449-mh365is5uv5v6gc79ss9u8gnp82smhpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-uWoDS8E_4gpKgH0dEIksRkes2W7lWkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432324906449-mh365is5uv5v6gc79ss9u8gnp82smhpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
